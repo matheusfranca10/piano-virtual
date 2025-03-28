@@ -23,5 +23,5 @@ Este projeto é um **Piano Virtual** desenvolvido durante o curso da **Digital I
 
 ## Acesse o projeto
 
-Acesse o piano virtual no link: [Piano Virtual](https://matheusfranca10.github.io/piano-virtual){:target="_blank"}
+Acesse o piano virtual no link: [Piano Virtual](https://matheusfranca10.github.io/piano-virtual)
 
